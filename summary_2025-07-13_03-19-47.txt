@@ -1,0 +1,14 @@
+🔍 Log Summary:
+  Errors: 2
+  Warnings: 2
+
+  Error Lines:
+    - ERROR Disk space critical
+    - ERROR Could not connect to DB
+
+  Warning Lines:
+    - WARNING Memory usage high
+    - WARNING CPU load is above threshold
+
+🤖 GPT Suggestion:
+❌ GPT Error: {"error":{"message":"No endpoints found for openai/gpt-3.5-turbo.","code":404},"user_id":"user_2zoC7gUZo2x2rQnenIBycAFSmer"}

@@ -1,0 +1,14 @@
+🔍 Log Summary:
+  Errors: 2
+  Warnings: 2
+
+  Error Lines:
+    - ERROR Failed to mount disk /dev/sda1
+    - ERROR Unable to connect to database
+
+  Warning Lines:
+    - WARNING CPU temperature high
+    - WARNING Memory leak detected
+
+🤖 GPT Suggestion:
+❌ GPT Error: Expecting value: line 1 column 1 (char 0)

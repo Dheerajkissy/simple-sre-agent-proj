@@ -1,0 +1,5 @@
+INFO Starting up service...
+WARNING Memory usage high
+ERROR Disk space critical
+WARNING CPU load is above threshold
+ERROR Could not connect to DB

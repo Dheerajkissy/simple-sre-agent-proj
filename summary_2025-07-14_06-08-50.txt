@@ -1,0 +1,14 @@
+🔍 Log Summary:
+  Errors: 2
+  Warnings: 2
+
+  Error Lines:
+    - ERROR Disk space critical
+    - ERROR Could not connect to DB
+
+  Warning Lines:
+    - WARNING Memory usage high
+    - WARNING CPU load is above threshold
+
+🤖 GPT Suggestion:
+❌ GPT Error: {"error":{"message":"Insufficient credits. Add more using https://openrouter.ai/settings/credits","code":402}}

@@ -1,0 +1,12 @@
+🔍 Log Summary:
+  Errors: 1
+  Warnings: 1
+
+  Error Lines:
+    - ERROR Disk space critical
+
+  Warning Lines:
+    - WARNING Memory usage high
+
+🤖 GPT Suggestion:
+❌ GPT Error: Expecting value: line 1 column 1 (char 0)

@@ -1,0 +1,12 @@
+🔍 Log Summary:
+  Errors: 1
+  Warnings: 1
+
+  Error Lines:
+    - ERROR Disk space critical
+
+  Warning Lines:
+    - WARNING Memory usage high
+
+🤖 GPT Suggestion:
+❌ GPT Error: 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
